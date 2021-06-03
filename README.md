@@ -1,6 +1,6 @@
 # cws
 
-A new Flutter application.
+Application that can be used as reference. 
 
 ## Getting Started
 
